@@ -1,2 +1,2 @@
-# 20220619_react-todo
+# react-todo
 Created with CodeSandbox
